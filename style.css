@@ -1,0 +1,13 @@
+body {
+    background-color: #dbdace;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    color: darkslategrey;
+}
+
+#img1 {
+    width: 350px;
+}
